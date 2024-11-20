@@ -88,7 +88,7 @@ You are required to build a multiclass classification model using a custom convo
 
 
 ## Contact
-Created by [@darshil2848] - feel free to contact me!
+Created by [Subrat Biswal] - feel free to contact me!
 
 
 <!-- Optional -->
